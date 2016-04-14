@@ -1,0 +1,8 @@
+git status
+
+git add . 
+git add "nombre.py"
+
+git commit -m "msj"
+
+git push origin master
